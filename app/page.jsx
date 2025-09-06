@@ -96,9 +96,9 @@ export default function Home() {
 
       {/* Call to Action / Footer */}
       <footer className="bg-blue-600 text-white py-12 text-center">
-        <h2 className="text-2xl font-semibold mb-4">Join the blue Movement</h2>
+        <h2 className="text-2xl font-semibold mb-4">Join the Learning Movement</h2>
         <p className="mb-6 text-lg">
-          Start your journey toward sustainability today.
+          Start your journey toward knowledge today.
         </p>
         <div className="space-x-4">
           <Link
